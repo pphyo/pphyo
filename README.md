@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a instructor from JDC under SOLT Co.,Ltd. I instruct Java Standard Edition 21, Spring Framework 6 and Spring Boot 3, Angular Framework 18. Every course has final project and I manage final project for my learners. We code final project with Spring Boot with Hibernate and Angular. And I also develop many private project like POS System, Balance System, E-commerce System.
+I am a Software Engineer with over 7 years of experience in Full Stack Development. In Back End Development, I primarily write in ၐSpring Bootၐ, and for Front End, I use ၐReactၐ with ၐTypeScriptၐ for web applications and ၐFlutterၐ for mobile development. Additionally, I teach Full Stack Development courses at training centers.
 
 
 ## 🌐 Socials:
