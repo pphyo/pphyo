@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer with over 7 years of experience in Full Stack Development. In Back End Development, I primarily write in Spring Boot, and for Front End, I use React with TypeScript for web applications and Flutter for mobile development. Additionally, I teach Full Stack Development courses at training centers.
+I am a Software Engineer with over 5 years of experience in Full Stack Development. In Back End Development, I primarily write in Spring Boot, and for Front End, I use React with TypeScript for web applications and Flutter for mobile development. Additionally, I teach Full Stack Development courses at training centers.
 
 
 ## 🌐 Socials:
