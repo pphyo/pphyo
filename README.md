@@ -16,7 +16,7 @@ I am a **Senior Software Developer** with **over 8 years of hands-on experience*
 # 💻 Tech Stack:
 
 ### 🤖 AI Development
-![AI Agentic Development](https://img.shields.io/badge/AI_Agentic_Development-FF6F61?style=for-the-badge&logo=ai&logoColor=white) ![LLMs Integration](https://img.shields.io/badge/LLM_Integration_(DeepSeek/Gemini)-336791?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agentic Development](https://img.shields.io/badge/AI_Agentic_Development-FF6F61?style=for-the-badge&logo=ai&logoColor=white) ![LLMs Integration](https://img.shields.io/badge/LLM_Integration-336791?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🚀 Languages & Core Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
